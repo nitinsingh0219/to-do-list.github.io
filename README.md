@@ -1,6 +1,6 @@
 # To-Do List Web Application - README
 
-![To-Do List Web App](https://example.com/to-do-list-screenshot.png)
+![To-Do List Web App](To-do-list-demo.png)
 
 Welcome to our To-Do List Web Application! This web app allows you to manage your tasks efficiently and stay organized. Below, you will find all the information needed to set up and use the application effectively.
 
