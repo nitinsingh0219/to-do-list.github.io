@@ -11,7 +11,6 @@ Welcome to our To-Do List Web Application! This web app allows you to manage you
 4. [Installation](#installation)
 5. [Usage](#usage)
 6. [Contributing](#contributing)
-7. [License](#license)
 
 ## Introduction
 
@@ -38,7 +37,7 @@ The following technologies were used to build this To-Do List Web Application:
 
 To set up the To-Do List Web Application locally, follow these steps:
 
-1. Clone this repository to your local machine using `git clone `.
+1. Clone this repository to your local machine using `git clone https://github.com/nitinsingh0219/to-do-list.github.io.git`.
 2. Navigate to the project directory: `cd to-do-list`.
 3. Open the `index.html` file in your web browser.
 
